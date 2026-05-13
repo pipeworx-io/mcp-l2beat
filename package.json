@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-l2beat",
+  "version": "0.1.0",
+  "description": "L2BEAT MCP — Layer 2 ecosystem analytics",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "l2beat"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-l2beat"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
