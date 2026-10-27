@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-l2beat",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "L2BEAT MCP — Layer 2 ecosystem analytics",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-10645889545168fd7b01fa46f27001d3e51b5eb2fd6fbea3aecdeeb8dd4f6dad",
-    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
+    "sourceHash": "v1-55ce4753fd96b233798840eebca607f8a7802c3e7f258cf31af0dbd7f156a756",
+    "sourceCommit": "33741fe6d9ba71856e73fa683c73572d1ddf2e93"
   }
 }
