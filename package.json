@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-l2beat",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "L2BEAT MCP — Layer 2 ecosystem analytics",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "l2beat",
     "gatewaySlug": "l2beat",
-    "sourceHash": "v1-9a6f97a165faa9531e71d2ff97466a8ada88d92283af38f49200dec6c5aa939e",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-f4a935e7e79f04e6bd3dfe702d1c77a3c94ce50ff345a9b761a610aeffb1ccd3",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
